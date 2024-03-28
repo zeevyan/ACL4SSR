@@ -1,131 +1,88 @@
-payload:
 
-#玩偶哥哥（直连）
-- DOMAIN-SUFFIX, wogg.link
-- DOMAIN-SUFFIX, wogg.xyz
-- DOMAIN-SUFFIX, xxooo.cf
-#小纸条（直连）
-- DOMAIN-SUFFIX, gitcafe.net
-#jojo（直连）
-- DOMAIN-SUFFIX, jiohub.top
-#厂长资源（直连）
-- DOMAIN-SUFFIX, czzy88.com
-- DOMAIN-SUFFIX, czzy22.com
-- DOMAIN-SUFFIX, czzy66.com
-#在线之家（直连）
-- DOMAIN-SUFFIX, zxzja.com
-- DOMAIN-SUFFIX, zxzjhd.com
-- DOMAIN-SUFFIX, zxzj.pro
-#低端影视（直连）
-- DOMAIN-SUFFIX, ddys.pro
-- DOMAIN-SUFFIX, ddys.mov
-#索尼资源（直连）
-- DOMAIN-SUFFIX, suoniapi.com
-- DOMAIN-SUFFIX, v3.sxzyhuij.com
-- DOMAIN-SUFFIX, v3.suonizy-youku.comT
-- DOMAIN-SUFFIX, v8.sxzyhuij.com
-- DOMAIN-SUFFIX, snzypic.com
-- DOMAIN-SUFFIX, v8.suonizy-youku.com  
-#非凡资源（直连）
-- DOMAIN-SUFFIX, ffzyapi.com  
-#红牛资源（直连）
-- DOMAIN-SUFFIX, hongniuzy2.com
-#量子资源（直连）
-- DOMAIN-SUFFIX, lziapi.com  
-#快车资源（直连）
-- DOMAIN-SUFFIX, kczyapi.com  
-#三九影視（直连）
-- DOMAIN-SUFFIX, 39kan.com  
-#闪电资源（直连）
-- DOMAIN-SUFFIX, sdzyapi.com  
-#樱花资源（直连）
-- DOMAIN-SUFFIX, apiyhzy.com,  
-#卧龙资源（直连）
-- DOMAIN-SUFFIX, wolongzyw.com  
-#飘花影院（直连）
-- DOMAIN-SUFFIX, ahjiuman.com 
-#虎牙资源（直连）
-- DOMAIN-SUFFIX, huyaapi.com
-#百度资源（直连）
-- DOMAIN-SUFFIX, apibdzy.com
-#飘零影院（直连）
-- DOMAIN-SUFFIX, p2100.net
-#无尽资源（直连）
-- DOMAIN-SUFFIX, wujinapi.com
-#速博资源（直连）
-- DOMAIN-SUFFIX, subocaiji.com
-#乐视资源（直连）
-- DOMAIN-SUFFIX, leshizyapi.com
-#探索页（直连）
-- DOMAIN-SUFFIX, infuseku.xyz
-#魔都动漫（直连）
-- DOMAIN-SUFFIX, moduapi.cc  
-#最大资源（直连）
-- DOMAIN-SUFFIX, zuidazy.me
-#奇虎资源（直连）
-- DOMAIN-SUFFIX, qhzyapi.com
-#火狐资源（直连）
-- DOMAIN-SUFFIX, hhzyapi.com
-#享看资源（直连）
-- DOMAIN-SUFFIX, xkanzy10.com
-#新浪资源（直连）
-- DOMAIN-SUFFIX, xinlangapi.com
-#快云资源（直连）
-- DOMAIN-SUFFIX, kuaiyunzy.com
-#四圈资源（直连）
-- DOMAIN-SUFFIX, fenwe078.cf
-#快云资源（直连）
-DST-PORT, 1234, 
-#哔嘀影视（直连）
-- DOMAIN-SUFFIX, bdys10.com
-#快看资源（直连）
-- DOMAIN-SUFFIX, kuaikanzy.net
-#厂长&低端播放
-- DOMAIN-SUFFIX, cz01.site
-- DOMAIN-SUFFIX, larksuitecdn.com
-- DOMAIN-SUFFIX, fotile.com
-- DOMAIN-SUFFIX, pstatp.com
-- DOMAIN-SUFFIX, ugdtimg.com
-- DOMAIN-SUFFIX, ctyunxs.cn
-- DOMAIN-SUFFIX, wxsnsencsvp.wxs.qq.com
-#哔嘀播放
-- DOMAIN-SUFFIX, ibytedtos.com 
-- DOMAIN-SUFFIX, toutiao50.com
-- DOMAIN-SUFFIX, ibyteimg.com
-#阿里播放
-- DOMAIN-SUFFIX, aliyundrive.asia
-- DOMAIN-SUFFIX, alicloudccp.com 
-- DOMAIN-SUFFIX, openapi.aliyundrive.com
-- DOMAIN-SUFFIX, auth.aliyundrive.com 
-- DOMAIN-SUFFIX, api.aliyundrive.com  
-#豆瓣封面
-- DOMAIN-SUFFIX, doubanio.com
-#同步数据
-- DOMAIN-SUFFIX, gateway.icloud.com
-#杂七杂八的播放
-- DOMAIN-SUFFIX, ikunzyapi.com
-- DOMAIN-KEYWORD, ikzybf
-- DOMAIN-KEYWORD, 49zyvideoplayurl
-- DOMAIN-KEYWORD, v.cdnlz
-- DOMAIN-KEYWORD, vip.kuaikan
-- DOMAIN-KEYWORD, vip.ffzy
-- DOMAIN-SUFFIX, vod2.kczybf.com
-- DOMAIN-SUFFIX, top.1080pzy.co
-- DOMAIN-SUFFIX, c3.monidai.com
-- DOMAIN-SUFFIX, pan.dy066.com
-- DOMAIN-SUFFIX, hey11.cjkypo.com
-- DOMAIN-SUFFIX, hnts.ymuuy.com
-- DOMAIN-SUFFIX, hnzy.bfvvs.com
-- DOMAIN-SUFFIX, maimn.com
-- DOMAIN-SUFFIX, img.lzzyimg.com
-- DOMAIN-SUFFIX, vip.ffzy-play5.com
-- DOMAIN-SUFFIX, vip.ffzy-online6.com
-- DOMAIN-SUFFIX, sss.image8899.net
-- DOMAIN-SUFFIX, ikcdn01.ikzybf.com
-- DOMAIN-SUFFIX, vip.ffzy-play9.com
-- DOMAIN-SUFFIX, svip.picffzy.com
-- DOMAIN-SUFFIX, vip.imgffzy.com
-- DOMAIN-SUFFIX, vip.ffzyread1.com
-- DOMAIN-SUFFIX, vip.ffzy-play3.com
+- DOMAIN-SUFFIX, wogg.link,DIRECT
+- DOMAIN-SUFFIX, wogg.xyz,DIRECT
+- DOMAIN-SUFFIX, xxooo.cf,DIRECT
+- DOMAIN-SUFFIX, gitcafe.net,DIRECT
+- DOMAIN-SUFFIX, jiohub.top,DIRECT
+- DOMAIN-SUFFIX, czzy88.com,DIRECT
+- DOMAIN-SUFFIX, czzy22.com,DIRECT
+- DOMAIN-SUFFIX, czzy66.com,DIRECT
+- DOMAIN-SUFFIX, zxzja.com,DIRECT
+- DOMAIN-SUFFIX, zxzjhd.com,DIRECT
+- DOMAIN-SUFFIX, zxzj.pro,DIRECT
+- DOMAIN-SUFFIX, ddys.pro,DIRECT
+- DOMAIN-SUFFIX, ddys.mov,DIRECT
+- DOMAIN-SUFFIX, suoniapi.com,DIRECT
+- DOMAIN-SUFFIX, v3.sxzyhuij.com,DIRECT
+- DOMAIN-SUFFIX, v3.suonizy-youku.com,DIRECT
+- DOMAIN-SUFFIX, v8.sxzyhuij.com,DIRECT
+- DOMAIN-SUFFIX, snzypic.com,DIRECT
+- DOMAIN-SUFFIX, v8.suonizy-youku.com,DIRECT
+- DOMAIN-SUFFIX, ffzyapi.com,DIRECT
+- DOMAIN-SUFFIX, hongniuzy2.com,DIRECT
+- DOMAIN-SUFFIX, kczyapi.com,DIRECT  
+- DOMAIN-SUFFIX, 39kan.com,DIRECT
+- DOMAIN-SUFFIX, sdzyapi.com,DIRECT
+- DOMAIN-SUFFIX, apiyhzy.com,DIRECT  
+- DOMAIN-SUFFIX, wolongzyw.com,DIRECT 
+- DOMAIN-SUFFIX, ahjiuman.com,DIRECT
+- DOMAIN-SUFFIX, huyaapi.com,DIRECT
+- DOMAIN-SUFFIX, apibdzy.com,DIRECT
+- DOMAIN-SUFFIX, p2100.net,DIRECT
+- DOMAIN-SUFFIX, wujinapi.com,DIRECT
+- DOMAIN-SUFFIX, subocaiji.com,DIRECT
+- DOMAIN-SUFFIX, leshizyapi.com,DIRECT
+- DOMAIN-SUFFIX, infuseku.xyz,DIRECT
+- DOMAIN-SUFFIX, moduapi.cc,DIRECT  
+- DOMAIN-SUFFIX, zuidazy.me,DIRECT
+- DOMAIN-SUFFIX, qhzyapi.com,DIRECT
+- DOMAIN-SUFFIX, hhzyapi.com,DIRECT
+- DOMAIN-SUFFIX, xkanzy10.com,DIRECT
+- DOMAIN-SUFFIX, xinlangapi.com,DIRECT
+- DOMAIN-SUFFIX, kuaiyunzy.com,DIRECT
+- DOMAIN-SUFFIX, fenwe078.cf,DIRECT
+- DOMAIN-SUFFIX, bdys10.com,DIRECT
+- DOMAIN-SUFFIX, kuaikanzy.net,DIRECT
+- DOMAIN-SUFFIX, cz01.site,DIRECT
+- DOMAIN-SUFFIX, larksuitecdn.com,DIRECT
+- DOMAIN-SUFFIX, fotile.com,DIRECT
+- DOMAIN-SUFFIX, pstatp.com,DIRECT
+- DOMAIN-SUFFIX, ugdtimg.com,DIRECT
+- DOMAIN-SUFFIX, ctyunxs.cn,DIRECT
+- DOMAIN-SUFFIX, wxsnsencsvp.wxs.qq.com,DIRECT
+- DOMAIN-SUFFIX, ibytedtos.com,DIRECT
+- DOMAIN-SUFFIX, toutiao50.com,DIRECT
+- DOMAIN-SUFFIX, ibyteimg.com,DIRECT
+- DOMAIN-SUFFIX, aliyundrive.asia,DIRECT
+- DOMAIN-SUFFIX, alicloudccp.com,DIRECT
+- DOMAIN-SUFFIX, openapi.aliyundrive.com,DIRECT
+- DOMAIN-SUFFIX, auth.aliyundrive.com,DIRECT
+- DOMAIN-SUFFIX, api.aliyundrive.com,DIRECT 
+- DOMAIN-SUFFIX, doubanio.com,DIRECT
+- DOMAIN-SUFFIX, gateway.icloud.com,DIRECT
+- DOMAIN-SUFFIX, ikunzyapi.com,DIRECT
+- DOMAIN-KEYWORD, ikzybf,DIRECT
+- DOMAIN-KEYWORD, 49zyvideoplayurl,DIRECT
+- DOMAIN-KEYWORD, v.cdnlz,DIRECT
+- DOMAIN-KEYWORD, vip.kuaikan,DIRECT
+- DOMAIN-KEYWORD, vip.ffzy,DIRECT
+- DOMAIN-SUFFIX, vod2.kczybf.com,DIRECT
+- DOMAIN-SUFFIX, top.1080pzy.co,DIRECT
+- DOMAIN-SUFFIX, c3.monidai.com,DIRECT
+- DOMAIN-SUFFIX, pan.dy066.com,DIRECT
+- DOMAIN-SUFFIX, hey11.cjkypo.com,DIRECT
+- DOMAIN-SUFFIX, hnts.ymuuy.com,DIRECT
+- DOMAIN-SUFFIX, hnzy.bfvvs.com,DIRECT
+- DOMAIN-SUFFIX, maimn.com,DIRECT
+- DOMAIN-SUFFIX, img.lzzyimg.com,DIRECT
+- DOMAIN-SUFFIX, vip.ffzy-play5.com,DIRECT
+- DOMAIN-SUFFIX, vip.ffzy-online6.com,DIRECT
+- DOMAIN-SUFFIX, sss.image8899.net,DIRECT
+- DOMAIN-SUFFIX, ikcdn01.ikzybf.com,DIRECT
+- DOMAIN-SUFFIX, vip.ffzy-play9.com,DIRECT
+- DOMAIN-SUFFIX, svip.picffzy.com,DIRECT
+- DOMAIN-SUFFIX, vip.imgffzy.com,DIRECT
+- DOMAIN-SUFFIX, vip.ffzyread1.com,DIRECT
+- DOMAIN-SUFFIX, vip.ffzy-play3.com,DIRECT
 - DOMAIN-SUFFIX, vip.ffzyread.com
 - DOMAIN-SUFFIX, www.imgikzy.com
