@@ -102,11 +102,11 @@ DOMAIN-SUFFIX, doubanio.com
 DOMAIN-SUFFIX, gateway.icloud.com
 #杂七杂八的播放
 DOMAIN-SUFFIX, ikunzyapi.com
-DOMAIN-SUFFIX-KEYWORD, ikzybf
-DOMAIN-SUFFIX-KEYWORD, 49zyvideoplayurl
-DOMAIN-SUFFIX-KEYWORD, v.cdnlz
-DOMAIN-SUFFIX-KEYWORD, vip.kuaikan
-DOMAIN-SUFFIX-KEYWORD, vip.ffzy
+DOMAIN-KEYWORD, ikzybf
+DOMAIN-KEYWORD, 49zyvideoplayurl
+DOMAIN-KEYWORD, v.cdnlz
+DOMAIN-KEYWORD, vip.kuaikan
+DOMAIN-KEYWORD, vip.ffzy
 DOMAIN-SUFFIX, vod2.kczybf.com
 DOMAIN-SUFFIX, top.1080pzy.co
 DOMAIN-SUFFIX, c3.monidai.com
