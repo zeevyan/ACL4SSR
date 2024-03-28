@@ -462,3 +462,9 @@ payload:
   # USER-AGENT,YouTubeMusic*
   # USER-AGENT,com.google.ios.youtubemusic*
   - DOMAIN,music.youtube.com
+  # Apple tv app
+  - DOMAIN-KEYWORD haiwaikan.com
+  - DOMAIN-KEYWORDD m3u.haiwaikan.com
+  - DOMAIN-KEYWORD cdn.kin6c1.com
+  - DOMAIN-KEYWORD cdn.v82u1l.com
+  - DOMAIN-KEYWORD misakaf
